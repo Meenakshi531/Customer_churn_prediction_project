@@ -35,7 +35,7 @@ The goal of this project is to predict whether a customer will churn (i.e., leav
 - Trained models: `Random Forest Classifier`, `Logistic Regression`, etc.
 - Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix.
 
-## 🌐 Web Application (Deployed)
+## 🌐 Web Application (Deployement)
 
 The project includes a **Streamlit-based web app** allowing users to input customer details and receive a real-time churn prediction.
 
