@@ -39,8 +39,15 @@ The goal of this project is to predict whether a customer will churn (i.e., leav
 
 The project includes a **Streamlit-based web app** allowing users to input customer details and receive a real-time churn prediction.
 
-**Try the deployed version here 👉 [Deployment Link](https://your-deployment-link.streamlit.app)**
+# Navigate to the folder containing churn.py
+cd C:\\Users\\hp\\Documents
 
+# Run the Streamlit app
+streamlit run churn.py
+
+I have added glimpse of my deployment project
+
+# Thank you!
 
 
 
